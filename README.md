@@ -1,0 +1,2 @@
+# Argen
+Argen Minigame Plugin
